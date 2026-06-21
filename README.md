@@ -1,8 +1,7 @@
-# DCR Small Group - Weekly Schedule
+# Small Group Weekly Schedule - UCSF Designing Clinical Research Course 
 
-**Designing Clinical Research · Weekly Objectives, Activities & Deadlines**
-
-This repository provides tools and resources for students participating in the *Designing Clinical Research* course. This weekly guide summarizes small group objectives, activities, and submission expectations from Week 1 to Week 8.
+- This weekly guide summarizes the objectives, activities, and submission requirements for each small-group session from Week 1 through Week 8. 
+- It also provides useful tools for students participating in the UCSF Designing Clinical Research Course.
 
 ---
 
