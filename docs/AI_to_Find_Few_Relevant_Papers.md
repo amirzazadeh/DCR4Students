@@ -1,9 +1,9 @@
 **Use AI to find a few relevant papers for your initial research question**
 
-**AI Prompt Instructions**: Replace **<span style="color:red;">RED</span>** with your research question, then copy and paste the prompt into an AI tool.
+**AI Prompt Instructions**: Replace **[INSERT YOUR RESEARCH QUESTION HERE]** with your research question, then copy and paste the prompt into an AI tool.
 
 **Tips**:
-- **Protect your ideas and data**: Use a secure, institution-approved AI platform whenever possible (e.g., UCSF ChatGPT Enterprise). Do not enter confidential, proprietary, or identifiable information into public AI tools.
+- **Protect your ideas and data**: Use a secure, institution-approved AI platform whenever possible (e.g., UCSF ChatGPT Enterprise). Do not enter confidential, proprietary, or identifiable informat[...]
 - **Verify the output**: AI can make mistakes. Check all references, citations, and factual claims for accuracy.
 - **Disclose AI use**: Report the AI tool used, the date, and how it was used. You are responsible for verifying the output and for all content you submit.
 	
