@@ -50,7 +50,8 @@ This repository provides tools and resources for students participating in the *
 **Objective:** Define key predictor/outcome variables and practice sample size calculation mechanics.
 
 ### Small Group Activity
-- Share your **½ - ¾ page Measurements section**; peers review primary predictor, primary outcome, and key covariates.
+- Share your **½ - ¾ page Measurements section**; Group members will review your primary predictor, primary outcome, and key covariates,
+provide feedback on whether they are clearly defined and appropriate for the study aims, and suggest improvements.
 - Share your completed **Sample Size Table**  
   - Template 1 for dichotomous outcomes  
   - Template 2 for continuous outcomes
@@ -66,7 +67,9 @@ This repository provides tools and resources for students participating in the *
     - SD = 15 mmHg
     - Assume two-sided α = 0.05, 80% power, equal group sizes
     - Calculate sample size per group and total sample size
-- Discuss whether assumptions are realistic, effect size may be optimistic, and recruitment feasibility.
+- Discuss: Now use [https://sample-size.net/](https://sample-size.net/) to explore the assumptions and inputs needed to
+  calculate the sample size for your study. Based on your initial estimate, is the required sample size feasible?
+  Why or why not? Next week, you will refine and justify your sample size calculation and finalize your target sample size.
 
 **Due:** Bring a draft to small group on Tuesday. Submit revised version electronically by Wednesday at midnight.
 
@@ -85,9 +88,10 @@ This repository provides tools and resources for students participating in the *
   - Feasibility statement
 - Example null hypothesis:  
   *“There is no association between participation in a structured walking program and change in systolic blood pressure at 6 months.”*
+- Discuss: Did you find published data to back your assumptions? Did you talk to a statistician or your mentor? What's the minimum effect size worth detecting
+- Tip: A sensitivity analysis (showing N under slightly different assumptions) can strengthen your justification
 - Share your **1-page alternate study outline** using a different design (e.g., if main study is cohort, outline case-control or RCT).
 - Discuss whether assumptions are supported by published data, whether you consulted a statistician/mentor, and what minimum meaningful effect size is worth detecting.
-- Tip: Include a sensitivity analysis showing required N under different assumptions.
 
 **Due:** Bring a draft to small group on Tuesday. Submit revised version electronically by Wednesday at midnight.
 
@@ -100,7 +104,8 @@ This repository provides tools and resources for students participating in the *
 ### Small Group Activity
 - Share your **<1-page Enhancing Inference section** (format depends on study type).
 - **Observational study example:**
-  - List confounders (e.g., age, BMI, baseline BP)
+  - List important confounders. Exmaple of an imporant one: Age (main exposure: physical activity level; main outcome: blood pressure at 6 months;
+    age is associated with both the exposure and outcome and is not caused by the exposure).
   - Describe 2+ strategies (multivariable regression adjustment, propensity score matching, restriction)
 - **RCT example:**
   - Specify randomization method (e.g., sealed envelopes or REDCap)
@@ -146,7 +151,7 @@ This repository provides tools and resources for students participating in the *
 **Objective:** Assemble a complete 5-page protocol draft and identify one unsettled issue for group discussion.
 
 ### Small Group Activity
-- Share your complete **5-page protocol draft**, including:
+- Share your **5-page protocol draft**, including:
   - Abstract
   - Specific Aims
   - Significance
@@ -195,18 +200,3 @@ This repository provides tools and resources for students participating in the *
   - Maximum 5 pages (excluding references/appendices)
 
 **Due:** Submit electronically by the course deadline. 5 pages maximum (not including references and appendices).
-
----
-
-## Quick Weekly Deadline Reminder
-
-For **Weeks 1 - 6**:
-- Bring draft to small group on **Tuesday**
-- Submit revised version electronically by **Wednesday at midnight**
-
-For **Week 7**:
-- Bring printed copy to small group on **Tuesday**
-- **No electronic submission**
-
-For **Week 8**:
-- Submit final protocol electronically by the **course deadline**
