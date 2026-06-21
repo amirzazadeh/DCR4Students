@@ -1,6 +1,6 @@
 **Use AI to develop a search strategy for a systematic literature search**
 
-**AI Prompt Instructions**: Replace ***"TEXT"*** with your own research question, then copy and paste the prompt into an AI tool.
+**AI Prompt Instructions**: Replace ***"TEXT"*** in the AI prompt with your own research question, then copy and paste the prompt into an AI tool.
 
 **Tips**:
 - Protect your ideas and data: Use a secure, institution-approved AI platform whenever possible (e.g., UCSF ChatGPT Enterprise). Do not enter confidential, proprietary, or identifiable information into public AI tools.
@@ -12,9 +12,9 @@
   -	Search Web of Science: [https://www.webofscience.com/wos/woscc/smart-search](https://www.webofscience.com/wos/woscc/smart-search)
 -	Copy and paste the verified search terms into the search box of the databases/websites above (e.g., PubMed, Cochrane Library, Embase) to retrieve the most relevant evidence.
 - After running the search:
-  - PubMed: Click on ***Advanced*** to review, then clink on ***Details*** to check the ***Warnings***, and if needed, clink on ***Actions*** to edit the query.
-  - Embase: Click on the ***three vertical dots** and then ***Search Details*** to review the search query/map, and then click on ***Edit*** if needed.
-  - Web of Science: Click on ***See how we processed your query*** to review the search query and and ***Edit*** if needed.
+  - PubMed: Click on ***"Advanced"*** to review, then clink on ***"Details"*** to check the ***"Warnings"***, and if needed, clink on ***"Actions"*** to edit the query.
+  - Embase: Click on the ***"Three vertical dots"*** and then ***"Search Details"*** to review the search query/map, and then click on ***"Edit"*** if needed.
+  - Web of Science: Click on ***"See how we processed your query"*** to review the search query and and ***"Edit"*** if needed.
  
 
 **AI Prompt Start**
