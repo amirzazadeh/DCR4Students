@@ -18,8 +18,8 @@ This repository provides tools and resources for students participating in the *
 - Tip: Use PubMed to find **3 - 5 key papers** supporting why your question matters, and cite them in your Significance section.
 
 ### AI Assistant
-- Use AI to find a few relevant papers for your initial research question. [link]
-- Use AI to develop a search strategy for a systematic literature search. [link]
+- Use AI to find a few relevant papers for your initial research question. [link](https://github.com/amirzazadeh/DCR4Students/blob/main/docs/AI_to_Find_Few_Relevant_Papers.md)
+- Use AI to develop a search strategy for a systematic literature search. [link](https://github.com/amirzazadeh/DCR4Students/blob/main/docs/AI_to_Develop_a_Systematic_Search_Strategy.md)
 
 **Due:** Bring a draft to small group on Tuesday. Submit revised version electronically by Wednesday at midnight.
 
