@@ -1,4 +1,4 @@
-# Small Group Weekly Schedule - UCSF Designing Clinical Research Course 
+## Small Group Weekly Schedule - UCSF Designing Clinical Research Course 
 
 - This weekly guide summarizes the objectives, activities, and submission requirements for each small-group session from Week 1 through Week 8. 
 - It also provides useful tools for students participating in the UCSF Designing Clinical Research Course.
@@ -199,3 +199,11 @@ provide feedback on whether they are clearly defined and appropriate for the stu
   - Maximum 5 pages (excluding references/appendices)
 
 **Due:** Submit electronically by the course deadline. 5 pages maximum (not including references and appendices).
+
+---
+# Contact
+For comments or questions, contact: [ali.mirzazadeh@ucsf.edu](ali.mirzazadeh@ucsf.edu)
+
+- **Course:** Designing Clinical Research (UCSF)
+- **Last Updated:** June 21, 2026
+
