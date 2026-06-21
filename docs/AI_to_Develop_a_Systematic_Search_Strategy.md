@@ -12,9 +12,10 @@
   -	Search Web of Science: [https://www.webofscience.com/wos/woscc/smart-search](https://www.webofscience.com/wos/woscc/smart-search)
 -	Copy and paste the verified search terms into the search box of the databases/websites above (e.g., PubMed, Cochrane Library, Embase) to retrieve the most relevant evidence.
 - After running the search:
-  - PubMed: Click Advanced to review the search history and confirm the search was interpreted correctly.
-  - Embase: Click Search History (or Advanced Search) to review how the search terms were mapped and combined.
-  - Web of Science: Click Search History to review and verify the search query and results.
+  - PubMed: Click on ***Advanced*** to review, then clink on ***Details*** to check the ***Warnings***, and if needed, clink on ***Actions*** to edit the query.
+  - Embase: Click on the ***three vertical dots** and then ***Search Details*** to review the search query/map, and then click on ***Edit*** if needed.
+  - Web of Science: Click on ***See how we processed your query*** to review the search query and and ***Edit*** if needed.
+ 
 
 **AI Prompt Start**
 
