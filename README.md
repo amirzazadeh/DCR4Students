@@ -26,7 +26,7 @@
 
 ## Week 2: Study Design & Subject Selection
 
-**Objective:** Draft a 1-page protocol outline and identify your study population, sample, and sampling strategy.
+**Objective:** Draft a 1-page protocol outline and a 1-page to identify your study population, sample, and sampling strategy.
 
 ### Small Group Activity
 - Share your **1-page protocol outline** (Research Question, Significance, Design, Subjects, Variables).
